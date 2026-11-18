@@ -1,0 +1,5 @@
+build*/
+*.wal
+.vscode/
+.idea/
+.DS_Store
